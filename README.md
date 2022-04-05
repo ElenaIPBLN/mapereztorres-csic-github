@@ -13,3 +13,7 @@ collaborate to complete the content.
 
 - [x] Created repository
 - [x] Updated content
+import matplotlib.pyplot as plt
+plt.plot([1, 2, 3, 4])
+plt.ylabel('algunos números')
+plt.show()
